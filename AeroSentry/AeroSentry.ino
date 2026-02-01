@@ -30,7 +30,7 @@ WebServer server(80);
 
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 3600;  // GMT+1
-const int daylightOffset_sec = 3600;  // Summer time
+const int daylightOffset_sec = 3600;  // Summer Time
 
 // Hardware pins
 const int ledPins[] = {13, 12, 14, 27, 26, 25, 33, 32};
