@@ -15,10 +15,8 @@
 #include "time.h"
 
 // --- 1. User Configuration ---
-//const char* ssid = "TP-Link_B307_Students";
-//const char* password = ";!F1lo7oGi4#";
-const char* ssid = "BeskidMedia_510a";
-const char* password = "UKFTcLcV";
+const char* ssid = "ssid";
+const char* password = "password";
 
 // chart update frequency (in milliseconds)
 // 300000 = 5 minutes (standard)
