@@ -119,8 +119,7 @@ Once the device is connected to Wi-Fi, navigating to its IP address reveals the 
 *Above: Responsive web interface served by the ESP32.*
 
 ## Authors and Context
-* **Author:**
-    * Filip Żurek
+* **Author:** Filip Żurek
 * **Project Type:** Personal Engineering Project
 * **Domain:** IoT, Embedded Systems, Environmental Monitoring
 
