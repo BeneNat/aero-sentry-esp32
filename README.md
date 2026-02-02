@@ -28,7 +28,7 @@ The primary goal of this project was to create a standalone, connected device ca
 
 ### Wiring Diagram & Pin Mapping
 
-![Hardware Connections](img/hardware_setup.jpg)</br>
+![Hardware Connections](img/hardware_setup.jpeg)</br>
 *Above: Physical connection diagram.*
 
 #### 1. LED Bar (Left Side)
